@@ -1,0 +1,23 @@
+Encontrar algumas bibliotecas não muito conhecidas ainda, além de suas documentações / orientações
+Saber o que cada método faz, especificamente, e também, por onde começar um projeto: lib que usar e etc
+Foi em entender a programar de forma Pythonic
+Decorators, self, **kwargs. Não entendia bem como vinha informação desses caras, se não era objeto, não era passado por parametro, não tinha um super, me deu uma bugada legal na época
+Quando chegou a parte de orientação a objeto e sempre tentar manter o código “pythonico” uma vez que a linguagem pede pra não termos códigos muito grandes, repetitivos e sem padrões
+Colocar em prática códigos funcionais de forma lógica
+Entraves psicológicos criados durante a graduação em relação a programação. Infelizmente, cheguei na faculdade sem saber nada e não tive suporte, além de um péssimo professor que aplicava medo e não ensinava direito
+Acredito que por ter um background com outras linguagens, aprender python foi muito simples.
+Acho que a maneira com que a linguagem é apresentada pros calouros é de uma maneira bastante equivocada.
+Lembrar de todos os comandos e suas aplicações
+Memorizar funções específicas, por exemplo a função de limitar a quantidade de dígitos decimais de uma variável.
+Sinceramente, eu acredito que Python seja uma das linguagens de programação mais simples de estudar. No entanto, até o momento, tenho dificuldade em entender funções recursivas e funções anônimas (lambda).
+A dificuldade de encontrar aulas rápidas objetivas que vão direto ao ponto sem enrolação
+"Independente da linguagem, acho que uma de minhas maiores dificuldades, foi na 'memorização' dos códigos. Não que, memorizar a sintaxe da linguagem, seja exigido pelo mercado de trabalho. Mas, na disciplina de APC, por exemplo, nas provas, não era permitido consulta. Então, de certa forma, os alunos precisavam ter, parte da linguagem memorizada, no caso Python.
+Além disso, eu mesmo, nunca gostei me memorizar nada. Sempre achei, que o importante, é a pessoa ser capaz, de processar a informação, seja ela qual for. Decorar e repetir, até papagaio faz!
+Eu sempre gostei, de ver os resultados dos meus estudos, aplicados no mundo real. Depois de APC, os alunos pegam uma disciplina, chamada ED(Estrutura de Dados). A maioria dos alunos, nunca fizeram um CRUD na vida, uma página com HTML/CSS, JavaScript ou qualquer outra coisa prática com programação. Se deixar, os alunos saem do curso, sem estarem preparados pro mercado de trabalho. É lógico que a base que a universidade dá, é importante, eu só acho que falta um pouco mais de equilíbrio, entre teoria e prática. O mesmo equilíbrio é necessário em outras disciplinas, por exemplo, as de matemática."
+Abstração
+Algumas expressões que não são tão auto explicativas e pra saber colocar elas do jeito certinho para o código rodar
+Achei uma linguagem bem tranquila! A sintaxe não é tão detalhista quanto em outras linguagens, e a parada da indentação ajuda bastante a visualizar o código e a execução. As mensagens de erro também são mais concisas e claras
+Teste
+colocar a mão na massa, aprender é fácil, o problema é a prática
+Não saber lógica computacional, decorar a sintaxe, fazer exercícios desconectados da realidade, não saber usar a documentação.
+Professora não se importava com todos, só com quem já sabia a linguagem. No primeiro dia de aula lembro que foi dito que não era necessário saber nada de programação, que todos avançariam igualmente mas é a maior mentira pregada, se você não saber pelo menos o básico você se roda, as dificuldades não são sanadas, as dúvidas comuns não eram levadas a sério. Enfim, só provando mais a ainda o elitismo da unb e as altas taxas de evasão dos cursos de TI de lá.

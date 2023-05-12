@@ -1,0 +1,22 @@
+Integrações nativas com bibliotecas já conhecidas de Python, facilitando automações (Como por exemplo o Jupyter).
+Seria muito bom se houvesse mais conteúdo sobre webscrapping com python em páginas dinâmicas (que sempre atualizam seus resultados) e as devidas ferramentas facilitadoras para o aprendizado do mesmo, mostrando texto e imagens de como foi feito em algum outro lugar."
+Uma trilha real de um back-end. Ensinando os conceitos iniciais até o deploy.
+Ter uma interface simples;  Recompensas por atividades resolvidas (exercicios); Vídeos curtos e objetivos; Ranking entre os alunos que está mandando bem; Dica ou trechos de livros para explicar aquele problema que foi proposto.
+Talvez auto-identação no começo seja interessante pra quem veio de linguagens com escrita parecida ao C
+Acredito que recurso da visibilidade de um input virando um output e cases relacionados. Exemplo, supondo a função soma em que dois valores são somados, não somente os inputs e os outputs mas como a linguagem “enxerga” isso e entrega o valor. A partir disso, levantar pontos sobre “o que e um número” “o que e uma soma” “como a máquina enxerga isso” até a apresentação do dado.
+Exemplos claros e funcionais e balões de dicas quando se está indo para o caminho inverso
+Plataforma de dúvidas remota e online, e exercícios de prática resolvidos passo a passo de diversas maneiras para que se possa estudar e analisar as diversas formas de chegar em um mesmo resultado
+Acho que a prática. É sempre muito bom quando a gente vê um comando e em seguida implementamos ele de uma maneira meio que criativa. Tipo, ao mostrar como funciona um loop, seria legal tem um espaço pra praticar um loop podendo colocar outros comandos dentro dele.
+Aprofundamento em cada assunto
+Exercícios de prática
+Praticidade, linguagem simples e de fácil acesso ao usuário
+Uma documentação simples, clara e direta, que explique de maneira concisa a forma mais eficiente de se resolver um problema proposto.
+Deve ter a presença de prática a cada conceito novo introduzido, por mais ínfimo que seja ele. No aprendizado é importante dominar o simples pra poder passar pro avançado. Um grande erros de vários professores, por exemplo, é apresentar (em aulas longuíssimas e maçantes puramente teóricas com slides infinitos, etc...) e cobrar assuntos avançados e mais complexos sem que os alunos tenham dominado plenamente os conceitos prévios que são mais básicos, simples e necessários para compreender os mais avançados.  De acordo com vários estudos pedagógicos, o aprendizado ativo (prática propriamente dita) é a melhor forma de reter o conhecimento, então a prática a cada conceito novo precisa ser frequente e constante na plataforma.
+A melhor ferramenta, para o ensino de qualquer coisa, se chama, 'um bom professorª'. Outras coisas, como IDE, computador tal, são acessórios. Aliás, falando em acessórios, um SSD, é algo muito bom.
+Debugger
+Explicar passo a passo os comandos e não só lotar os alunos de comando sem explicar direito cada um
+Ajudar com a lógica de programação (inclusive loops e condições),  apontar erros de sintaxe, auxiliar no básico da linguagem como variáveis e tipos básicos
+Teste
+projetos práticos
+Ensinar lógica computacional antes de qualquer coisa, ter um ambiente simples e intuitivo, exercícios práticos e conectado com o cotidiano.
+Didática, eficiência, facilidade
